@@ -1,0 +1,15 @@
+version: '3.4'
+services:
+
+  node:
+    image: node:14.17.0-alpine3.13
+    container_name: node
+    tty: true
+    logging:
+      driver: none
+    working_dir: /usr/src/app
+    ports:
+      - 8080:8080
+    volumes:
+      - ./:/usr/src/app
+    user: node

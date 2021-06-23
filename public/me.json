@@ -1,0 +1,99 @@
+{
+  "name": "Andrianto",
+  "location": "North Sumatra, Indonesia",
+  "email": "andrianto.nee@gmail.com",
+  "github": "github.com/andriantonee",
+  "github_link": "https://github.com/andriantonee",
+  "linkedin": "linkedin.com/in/andrianto-nee-8a6b38150/",
+  "linkedin_link": "https://www.linkedin.com/in/andrianto-nee-8a6b38150/",
+  "position": "Back-End Developer & DevOps Engineer",
+  "about_me": "Back-End Developer with over 4 years experience, DevOps Engineer with over 2 years experience and a demonstrated history of working in the E-commerce industry. Skilled in PHP, MySQL and AWS. Strong engineering professional graduated from mikroskil. I'm still learning on to improve both.",
+  "photo": "./me.jpg",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Relational Database (MySQL)",
+    "Redis",
+    "PHP",
+    "Laravel",
+    "HTML5",
+    "CSS3",
+    "SCSS",
+    "Javascript",
+    "jQuery",
+    "VueJS"
+  ],
+  "experiences": [
+    {
+      "from": "Aug 2019",
+      "to": "Present",
+      "position": "DevOps Engineer",
+      "location": "diyo.app",
+      "description": "<ul><li>Build development pipeline and deploy code to various environments (Gitlab CI/CD Pipeline)</li><li>Containerize code with Docker</li><li>Experience with IAM, VPC, Amazon CLI, EC2, ECS (EC2), ELB (Application), S3, Cloudfront, Cloudwatch, CodeCommit (Only for Task Definition ECS), CodePipeline, CodeDeploy</li></ul>"
+    },
+    {
+      "from": "Aug 2019",
+      "to": "Present",
+      "position": "Back-End Developer",
+      "location": "diyo.app",
+      "description": "<ul><li>Designing database throughout development</li><li>Developing API for user and merchant app</li></ul>"
+    },
+    {
+      "from": "June 2019",
+      "to": "Aug 2019",
+      "position": "DevOps Engineer",
+      "location": "dealjava.com",
+      "description": "<ul><li>Build development pipeline and deploy code to various environments (Gitlab CI/CD Pipeline)</li><li>Containerize code with Docker</li><li>Experience with Amazon CLI, ECS (Fargate), ELB (Network)</li></ul>"
+    },
+    {
+      "from": "June 2019",
+      "to": "Aug 2019",
+      "position": "Back-End Developer",
+      "location": "dealjava.com",
+      "description": "<ul><li>Moving old framework codebase to new codebase</li><li>Performing bug fixes</li></ul>"
+    },
+    {
+      "from": "Sep 2017",
+      "to": "June 2019",
+      "position": "Front-End Developer",
+      "location": "dealjava.com",
+      "description": "<ul><li>Developed and maintain customer facing website</li><li>Implementing new features</li><li>Performing bug fixes</li><li>Improving website performance</li></ul>"
+    },
+    {
+      "from": "Jul 2016",
+      "to": "Aug 2017",
+      "position": "Back-End Developer (Back Office)",
+      "location": "dealjava.com",
+      "description": "<ul><li>Implementing new features</li><li>Performing bug fixes</li><li>Improving query performance</li></ul>"
+    },
+    {
+      "from": "Mei 2014",
+      "to": "Apr 2016",
+      "position": "Programmer",
+      "location": "Karya Nyata Komputer",
+      "description": "<ul><li>Implementing new features</li><li>Performing bug fixes</li></ul>"
+    }
+  ],
+  "educations": [
+    {
+      "from": "September 2013",
+      "to": "September 2017",
+      "location": "Mikroskil",
+      "description": "Bachelor of Computer Science"
+    }
+  ],
+  "projects": [
+    {
+      "title": "DIYO",
+      "type": "Company Project",
+      "link": "https://diyo.app",
+      "description": "Online Food Ordering App"
+    },
+    {
+      "title": "Dealjava",
+      "type": "Company Project",
+      "link": "https://dealjava.com",
+      "description": "Voucher & Promo Web App"
+    }
+  ]
+}
