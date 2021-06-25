@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen min-w-screen bg-porcelain">
+  <div class="min-h-screen min-w-screen bg-aquahaze">
     <main-page />
   </div>
 </template>

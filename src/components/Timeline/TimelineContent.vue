@@ -30,7 +30,7 @@ export default {
 <style lang="scss" scoped>
 .time {
   &__wrapper {
-    @apply text-calypso;
+    @apply text-curiousblue;
     @apply w-full;
     @apply flex;
     @apply items-center;
@@ -53,8 +53,8 @@ export default {
     @apply h-5;
     @apply rounded-full;
     @apply border-4;
-    @apply border-calypso;
-    @apply bg-porcelain;
+    @apply border-curiousblue;
+    @apply bg-aquahaze;
     @apply absolute;
     @apply z-10;
     left: -0.75rem;

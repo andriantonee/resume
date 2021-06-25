@@ -2,10 +2,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        porcelain: "#f1f3f4",
-        glacier: "#79bac1",
-        calypso: "#2A7886",
-        bossanova: "#512B58",
+        aquahaze: "#e8f0f2",
+        sail: "#a2dbfa",
+        curiousblue: "#39a2db",
+        tarawera: "#053742",
       },
       screens: {
         esm: "320px",

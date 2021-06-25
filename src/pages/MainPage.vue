@@ -64,7 +64,7 @@
           ></avatar>
         </div>
 
-        <p class="text-justify esm:p-3 md:p-3 text-porcelain">{{ aboutme }}</p>
+        <p class="text-justify esm:p-3 md:p-3 text-aquahaze">{{ aboutme }}</p>
 
         <section>
           <div class="heading__wrapper heading__wrapper--white">
@@ -260,23 +260,23 @@ section {
   }
 
   &--white {
-    @apply text-porcelain;
+    @apply text-aquahaze;
   }
 
   &__wrapper {
     @apply pb-2;
     @apply border-b-4;
-    @apply border-calypso;
+    @apply border-curiousblue;
 
     &--white {
-      @apply border-porcelain;
+      @apply border-aquahaze;
     }
   }
 }
 
 .profile {
   &__left {
-    @apply text-porcelain;
+    @apply text-aquahaze;
   }
 
   &__right {
@@ -312,7 +312,7 @@ section {
   @apply py-2;
   @apply px-4;
   @apply bg-white;
-  @apply text-calypso;
+  @apply text-curiousblue;
   @apply inline-block;
   @apply text-sm;
   @apply font-semibold;
@@ -332,7 +332,7 @@ section {
   &__left {
     @apply w-full;
     @apply h-auto;
-    @apply bg-calypso;
+    @apply bg-curiousblue;
   }
 
   &__right {

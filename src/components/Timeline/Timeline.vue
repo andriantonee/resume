@@ -20,7 +20,7 @@ export default {
     &::before {
       content: '';
       @apply absolute;
-      @apply bg-calypso;
+      @apply bg-curiousblue;
       @apply w-1;
       @apply bottom-0;
       @apply top-0;
