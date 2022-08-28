@@ -21,19 +21,27 @@
     "SCSS",
     "Javascript",
     "jQuery",
-    "VueJS"
+    "VueJS",
+    "Golang"
   ],
   "experiences": [
     {
-      "from": "Aug 2019",
+      "from": "Aug 2021",
       "to": "Present",
+      "position": "Back-End Developer",
+      "location": "Two Miner Pte. Ltd.",
+      "description": "<ul><li>Implementing new features</li><li>Performing bug fixes</li><li>Deploy to AWS</li><li>Create bash script to backup, deploy, etc</li></ul>"
+    },
+    {
+      "from": "Aug 2019",
+      "to": "Aug 2021",
       "position": "DevOps Engineer",
       "location": "diyo.app",
       "description": "<ul><li>Build development pipeline and deploy code to various environments (Gitlab CI/CD Pipeline)</li><li>Containerize code with Docker</li><li>Experience with IAM, VPC, Amazon CLI, EC2, ECS (EC2), ELB (Application), S3, Cloudfront, Cloudwatch, CodeCommit (Only for Task Definition ECS), CodePipeline, CodeDeploy</li></ul>"
     },
     {
       "from": "Aug 2019",
-      "to": "Present",
+      "to": "Aug 2021",
       "position": "Back-End Developer",
       "location": "diyo.app",
       "description": "<ul><li>Designing database throughout development</li><li>Developing API for user and merchant app</li></ul>"
@@ -83,6 +91,18 @@
     }
   ],
   "projects": [
+    {
+      "title": "Singapore Book Publishers Association",
+      "type": "Company Project",
+      "link": "https://www.bookdata.sg/",
+      "description": "Book Library"
+    },
+    {
+      "title": "Tabiboba",
+      "type": "Company Project",
+      "link": "https://www.tabiboba.com/",
+      "description": "Boba Tea Cafe, Karaoke and Darts"
+    },
     {
       "title": "DIYO",
       "type": "Company Project",
